@@ -1,0 +1,14 @@
+[user]
+	email = aravinthanrc@gmail.com
+	name = FreeRikato
+[color]
+	ui = auto
+[credential]
+	helper = cache
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
+	excludesfile = /home/rikato/.gitignore_global
+[help]
+	autocorrect = 1
